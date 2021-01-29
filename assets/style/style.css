@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+#modelImage {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
+
+#loadingInfo {
+	display: none;
+}
